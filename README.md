@@ -26,10 +26,10 @@ Before the data is used to train the machine learning models, it must be preproc
 The following supervised machine learning algorithms will be compared in this project:
 
 * K-Nearest Neighbors (KNN)
-* Logistic Regression
-* Random Forest
+* Logistic Regression (LR)
+* Random Forest (RF)
 * Support Vector Machine (SVM)
-* Naive Bayes
+* Naive Bayes (NB)
 
 # Evaluation
 The performance of each machine learning model will be evaluated using a variety of metrics, including accuracy, precision, recall, and f1-score. The model with the highest average performance across all metrics will be considered the best model for fake note detection.
@@ -48,7 +48,7 @@ To use the code, follow these steps:
 The notebook includes explanations and comments for each block of code, as well as markdown cells with additional information. Be sure to read these for a better understanding of what the code is doing.
 
 
-#Output
+# Output
 The code will output the evaluation scores for each model, as well as a summary of the results.
 
 # Troubleshooting
