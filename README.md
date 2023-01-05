@@ -6,6 +6,7 @@ The aim of this project is to compare the performance of different supervised ma
 
 The dataset used in this project is the "Fake Note Detection" dataset from the UCI Machine Learning Repository. It contains 1372 instances and 5 attributes. The attributes are:
 
+***
 *Variance of Wavelet Transformed image (continuous)
 *Skewness of Wavelet Transformed image (continuous)
 *Kurtosis of Wavelet Transformed image (continuous)
