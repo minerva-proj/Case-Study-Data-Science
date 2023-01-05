@@ -20,7 +20,7 @@ The dataset used in this project is the "Fake Note Detection" dataset from the U
 * Class (binary, 1 for fake and 0 for genuine)
 
 # Preprocessing
-Before the data is used to train the machine learning models, it must be preprocessed. This includes splitting the data into training and test sets, and possibly performing feature scaling.
+Before the data is used to train the machine learning models, it must be preprocessed. This includes splitting the data into training, validation and test sets, and performing feature scaling.
 
 # Machine Learning Models
 The following supervised machine learning algorithms will be compared in this project:
