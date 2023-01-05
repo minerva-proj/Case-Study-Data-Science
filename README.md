@@ -17,7 +17,7 @@ The dataset used in this project is the "Fake Note Detection" dataset from the U
 * Skewness of Wavelet Transformed image (continuous)
 * Kurtosis of Wavelet Transformed image (continuous)
 * Entropy of image (continuous)
-* Class (binary, 1 for fake and 0 for genuine)
+* Class (binary, 1 for fake and 0 for real)
 
 # Preprocessing
 Before the data is used to train the machine learning models, it must be preprocessed. This includes splitting the data into training, validation and test sets, and performing feature scaling.
